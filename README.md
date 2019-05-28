@@ -14,5 +14,5 @@ MachineHack Challenge to Predict house prices in Bangalore using Machine Learnin
 * Link to code: [Jupyter notebook](https://github.com/Saura1996/Predicting-House-Prices-In-Bengaluru-/blob/master/Predicting-House-Prices-In-Bengaluru_V1.ipynb)
 * Submitted by: Saurabh Deosarkar
 * Contact: 
-	- [Email](saurabhdeosarkar100@gmail.com)
+	- [Email](mailto:saurabhdeosarkar100@gmail.com)
 	- [LinkedIn](https://www.linkedin.com/in/saurabhdeosarkar/)
