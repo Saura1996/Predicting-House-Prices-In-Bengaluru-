@@ -1,5 +1,7 @@
-# Predicting-House-Prices-In-Bengaluru-
+# Predicting-House-Prices-In-Bengaluru
 MachineHack Challenge to Predict house prices in Bangalore using Machine Learning
+
+![](https://www.machinehack.com/wp-content/uploads/2018/03/Bengaluru-1.png)
 
 * Link to MachineHack challenge: [Here](https://www.machinehack.com/course/predicting-house-prices-in-bengaluru/)
 * Steps taken: 
